@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "CodeBetter Theme",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center center"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(14, 41, 65, 0.61)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(14, 41, 65)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgba(14, 41, 65, 0.7)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(67, 194, 218)",
+      "popup": "rgba(14, 41, 65, 0.77)",
+      "popup_text": "rgb(255, 255, 255)",
+      "icons_attention": "rgb(255, 255, 255)",
+      "icons": "rgb(255, 255, 255)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "popup_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_border": "rgb(38, 72, 102)",
+      "sidebar": "rgb(14, 41, 65)",
+      "toolbar_bottom_separator": "rgb(38, 72, 102)",
+      "toolbar_field_border": "rgba(255, 255, 255, 0.31)",
+      "tab_loading": "rgb(67, 194, 218)"
+    }
+  }
+}
